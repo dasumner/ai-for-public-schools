@@ -38,7 +38,7 @@
 
 ### Purpose Statement
 
-This framework establishes guidelines for the responsible, ethical, and effective use of Artificial Intelligence (AI) technologies in [District Name]. Our goal is to harness AI’s potential to enhance educational outcomes while protecting student privacy, promoting equity, and maintaining academic integrity.
+This framework establishes guidelines for the responsible, ethical, and effective use of Artificial Intelligence (AI) technologies in [District Name]. The goal is to harness AI’s potential to enhance educational outcomes while protecting student privacy, promoting equity, and maintaining academic integrity.
 
 ### Scope
 
